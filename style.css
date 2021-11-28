@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #E5E5E5;
+}
+#full_wrapper{
+    width: 960px;
+    margin: 17px auto;
+    background-color: #fff;
+}
+/* header area start */
+ #header{
+    background-color: #326155;
+    text-align: center;
+}
+#header img{
+    padding-top: 30px;
+}
+#header h1{
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+    padding: 25px 0 40px 0;
+}
+/* header area end */
+/* banner area start */
+#banner{
+    width: 500px;
+    margin: 30px auto;
+    background-color: #D7F2EC;
+    padding: 30px;
+}
+#banner h2{
+    font-family: Roboto;
+    font-size: 30px;
+    font-weight: 700;
+    color: #326155;
+    padding: 18px 0;
+}
+
+#banner p{
+    margin-bottom: 30px;
+}
+
+#banner a{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #326155;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    padding: 10px 0;
+}
+/* banner area end */
+/* footer area start */
+#footer {
+    background-color: rgb(50, 97, 85);
+    padding: 15px 0;
+    text-align: center;
+}
+#footer p{
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+}
+/* footer area start */
